@@ -11,3 +11,8 @@ treatment200<- summarise(group_by(data,`plot 101`,`plot 105`,`plot 203`,`plot 30
 treatment150<- summarise(group_by(data,`plot 102`,`plot 106`,`plot 204`,`plot 303`,`plot 401`,`plot 405`))
 treatment100<-summarise(group_by(data,`plot 103`,`plot 201`,`plot 205`,`plot 302`,`plot 404`,`plot 306`))
 treatmentCon<-summarise(group_by(data,`plot 104`,`plot 202`,`plot 206`,`plot 301`,`plot 305`,`plot 403`))
+summarise(treatment200,HighAve=mean(treatment200,na.rm=TRUE))
+summarise(treatment150,MedAve=mean(treatment150,na.rm=TRUE))
+summarise(treatment100,LowAve=mean(treatment100,na.rm = TRUE))
+summarize(treatmentCon,ConAve=mean(treatmentCon,na.rm=TRUE))
+
