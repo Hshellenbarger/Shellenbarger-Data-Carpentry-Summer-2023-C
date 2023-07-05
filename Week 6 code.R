@@ -14,7 +14,7 @@ DataSD<-data%>%
 Assignment 4 graph
 By Treatment
 ggplot(data = data) + 
-  geom_point(mapping = aes(x= Rate, y=Unit))
+  geom_point(mapping = aes(x= Rate, y=Unit,color=Unit))
 Rate by Plant Height
 ggplot(data=data) +
   geom_point(mapping=aes(x= Rate, y=Height_cm))
@@ -22,10 +22,10 @@ ggplot(data=data) +
 Assignment 5 graphs
 
 ggplot(data = DataMean) + 
-  geom_point(mapping = aes(x=DataMean$Rate,y=`Average Plant Height`,color=Rate))
+  geom_point(mapping = aes(x=Rate,y=`Average Plant Height`))
 
 ggplot(data = DataSD) + 
-  geom_point(mapping = aes(x=DataMean$Rate, y=`Standard Deviation of Plant Height`,color=Rate))
+  geom_point(mapping = aes(x=Rate, y=`Standard Deviation of Plant Height`))
 
 
 
