@@ -1,0 +1,721 @@
+Year,Month,Day,Variety,Rate,Unit,Rep,Height_cm,Sex
+2023,June,14,IH Willaims,200,101,1,54,V (Vegative)
+2023,June,14,IH Willaims,200,101,2,59,V (Vegative)
+2023,June,14,IH Willaims,200,101,3,82,V (Vegative)
+2023,June,14,IH Willaims,200,101,4,62,V (Vegative)
+2023,June,14,IH Willaims,200,101,5,58,V (Vegative)
+2023,June,14,IH Willaims,200,101,6,66,V (Vegative)
+2023,June,14,IH Willaims,200,101,7,64,V (Vegative)
+2023,June,14,IH Willaims,200,101,8,45,V (Vegative)
+2023,June,14,IH Willaims,200,101,9,55,V (Vegative)
+2023,June,14,IH Willaims,200,101,10,56,V (Vegative)
+2023,June,14,IH Willaims,150,102,1,98,V (Vegative)
+2023,June,14,IH Willaims,150,102,2,75,V (Vegative)
+2023,June,14,IH Willaims,150,102,3,70,V (Vegative)
+2023,June,14,IH Willaims,150,102,4,65,V (Vegative)
+2023,June,14,IH Willaims,150,102,5,86,V (Vegative)
+2023,June,14,IH Willaims,150,102,6,55,V (Vegative)
+2023,June,14,IH Willaims,150,102,7,60,V (Vegative)
+2023,June,14,IH Willaims,150,102,8,93,V (Vegative)
+2023,June,14,IH Willaims,150,102,9,84,V (Vegative)
+2023,June,14,IH Willaims,150,102,10,97,V (Vegative)
+2023,June,14,IH Willaims,100,103,1,60,V (Vegative)
+2023,June,14,IH Willaims,100,103,2,74,V (Vegative)
+2023,June,14,IH Willaims,100,103,3,84,V (Vegative)
+2023,June,14,IH Willaims,100,103,4,92,V (Vegative)
+2023,June,14,IH Willaims,100,103,5,90,V (Vegative)
+2023,June,14,IH Willaims,100,103,6,88,V (Vegative)
+2023,June,14,IH Willaims,100,103,7,69,V (Vegative)
+2023,June,14,IH Willaims,100,103,8,70,V (Vegative)
+2023,June,14,IH Willaims,100,103,9,68,V (Vegative)
+2023,June,14,IH Willaims,100,103,10,66,V (Vegative)
+2023,June,14,IH Willaims,0,104,1,28,V (Vegative)
+2023,June,14,IH Willaims,0,104,2,23,V (Vegative)
+2023,June,14,IH Willaims,0,104,3,40,V (Vegative)
+2023,June,14,IH Willaims,0,104,4,37,V (Vegative)
+2023,June,14,IH Willaims,0,104,5,39,V (Vegative)
+2023,June,14,IH Willaims,0,104,6,44,V (Vegative)
+2023,June,14,IH Willaims,0,104,7,30,V (Vegative)
+2023,June,14,IH Willaims,0,104,8,26,V (Vegative)
+2023,June,14,IH Willaims,0,104,9,34,V (Vegative)
+2023,June,14,IH Willaims,0,104,10,43,V (Vegative)
+2023,June,14,IH Willaims,200,105,1,92,V (Vegative)
+2023,June,14,IH Willaims,200,105,2,80,V (Vegative)
+2023,June,14,IH Willaims,200,105,3,84,V (Vegative)
+2023,June,14,IH Willaims,200,105,4,64,V (Vegative)
+2023,June,14,IH Willaims,200,105,5,103,V (Vegative)
+2023,June,14,IH Willaims,200,105,6,116,V (Vegative)
+2023,June,14,IH Willaims,200,105,7,73,V (Vegative)
+2023,June,14,IH Willaims,200,105,8,92,V (Vegative)
+2023,June,14,IH Willaims,200,105,9,104,V (Vegative)
+2023,June,14,IH Willaims,200,105,10,115,V (Vegative)
+2023,June,14,IH Willaims,150,106,1,84,V (Vegative)
+2023,June,14,IH Willaims,150,106,2,110,V (Vegative)
+2023,June,14,IH Willaims,150,106,3,113,V (Vegative)
+2023,June,14,IH Willaims,150,106,4,80,V (Vegative)
+2023,June,14,IH Willaims,150,106,5,95,V (Vegative)
+2023,June,14,IH Willaims,150,106,6,103,V (Vegative)
+2023,June,14,IH Willaims,150,106,7,70,V (Vegative)
+2023,June,14,IH Willaims,150,106,8,57,V (Vegative)
+2023,June,14,IH Willaims,150,106,9,60,V (Vegative)
+2023,June,14,IH Willaims,150,106,10,58,V (Vegative)
+2023,June,14,IH Willaims,100,201,1,95,V (Vegative)
+2023,June,14,IH Willaims,100,201,2,88,V (Vegative)
+2023,June,14,IH Willaims,100,201,3,85,V (Vegative)
+2023,June,14,IH Willaims,100,201,4,71,V (Vegative)
+2023,June,14,IH Willaims,100,201,5,65,V (Vegative)
+2023,June,14,IH Willaims,100,201,6,56,V (Vegative)
+2023,June,14,IH Willaims,100,201,7,64,V (Vegative)
+2023,June,14,IH Willaims,100,201,8,57,V (Vegative)
+2023,June,14,IH Willaims,100,201,9,68,V (Vegative)
+2023,June,14,IH Willaims,100,201,10,88,V (Vegative)
+2023,June,14,IH Willaims,0,202,1,20,V (Vegative)
+2023,June,14,IH Willaims,0,202,2,34,V (Vegative)
+2023,June,14,IH Willaims,0,202,3,37,V (Vegative)
+2023,June,14,IH Willaims,0,202,4,18,V (Vegative)
+2023,June,14,IH Willaims,0,202,5,17,V (Vegative)
+2023,June,14,IH Willaims,0,202,6,30,V (Vegative)
+2023,June,14,IH Willaims,0,202,7,13,V (Vegative)
+2023,June,14,IH Willaims,0,202,8,15,V (Vegative)
+2023,June,14,IH Willaims,0,202,9,26,V (Vegative)
+2023,June,14,IH Willaims,0,202,10,13,V (Vegative)
+2023,June,14,IH Willaims,200,203,1,79,V (Vegative)
+2023,June,14,IH Willaims,200,203,2,82,V (Vegative)
+2023,June,14,IH Willaims,200,203,3,87,V (Vegative)
+2023,June,14,IH Willaims,200,203,4,82,V (Vegative)
+2023,June,14,IH Willaims,200,203,5,45,V (Vegative)
+2023,June,14,IH Willaims,200,203,6,44,V (Vegative)
+2023,June,14,IH Willaims,200,203,7,52,V (Vegative)
+2023,June,14,IH Willaims,200,203,8,98,V (Vegative)
+2023,June,14,IH Willaims,200,203,9,90,V (Vegative)
+2023,June,14,IH Willaims,200,203,10,96,V (Vegative)
+2023,June,14,IH Willaims,150,204,1,84,V (Vegative)
+2023,June,14,IH Willaims,150,204,2,90,V (Vegative)
+2023,June,14,IH Willaims,150,204,3,100,V (Vegative)
+2023,June,14,IH Willaims,150,204,4,88,V (Vegative)
+2023,June,14,IH Willaims,150,204,5,83,V (Vegative)
+2023,June,14,IH Willaims,150,204,6,50,V (Vegative)
+2023,June,14,IH Willaims,150,204,7,80,V (Vegative)
+2023,June,14,IH Willaims,150,204,8,83,V (Vegative)
+2023,June,14,IH Willaims,150,204,9,90,V (Vegative)
+2023,June,14,IH Willaims,150,204,10,92,V (Vegative)
+2023,June,14,IH Willaims,100,205,1,105,V (Vegative)
+2023,June,14,IH Willaims,100,205,2,82,V (Vegative)
+2023,June,14,IH Willaims,100,205,3,95,V (Vegative)
+2023,June,14,IH Willaims,100,205,4,105,V (Vegative)
+2023,June,14,IH Willaims,100,205,5,102,V (Vegative)
+2023,June,14,IH Willaims,100,205,6,85,V (Vegative)
+2023,June,14,IH Willaims,100,205,7,103,V (Vegative)
+2023,June,14,IH Willaims,100,205,8,87,V (Vegative)
+2023,June,14,IH Willaims,100,205,9,94,V (Vegative)
+2023,June,14,IH Willaims,100,205,10,105,V (Vegative)
+2023,June,14,IH Willaims,0,206,1,56,V (Vegative)
+2023,June,14,IH Willaims,0,206,2,45,V (Vegative)
+2023,June,14,IH Willaims,0,206,3,29,V (Vegative)
+2023,June,14,IH Willaims,0,206,4,28,V (Vegative)
+2023,June,14,IH Willaims,0,206,5,40,V (Vegative)
+2023,June,14,IH Willaims,0,206,6,23,V (Vegative)
+2023,June,14,IH Willaims,0,206,7,25,V (Vegative)
+2023,June,14,IH Willaims,0,206,8,19,V (Vegative)
+2023,June,14,IH Willaims,0,206,9,13,V (Vegative)
+2023,June,14,IH Willaims,0,206,10,29,V (Vegative)
+2023,June,14,IH Willaims,0,301,1,22,V (Vegative)
+2023,June,14,IH Willaims,0,301,2,32,V (Vegative)
+2023,June,14,IH Willaims,0,301,3,19,V (Vegative)
+2023,June,14,IH Willaims,0,301,4,28,V (Vegative)
+2023,June,14,IH Willaims,0,301,5,22,V (Vegative)
+2023,June,14,IH Willaims,0,301,6,17,V (Vegative)
+2023,June,14,IH Willaims,0,301,7,16,V (Vegative)
+2023,June,14,IH Willaims,0,301,8,25,V (Vegative)
+2023,June,14,IH Willaims,0,301,9,24,V (Vegative)
+2023,June,14,IH Willaims,0,301,10,22,V (Vegative)
+2023,June,14,IH Willaims,100,302,1,70,V (Vegative)
+2023,June,14,IH Willaims,100,302,2,83,V (Vegative)
+2023,June,14,IH Willaims,100,302,3,81,V (Vegative)
+2023,June,14,IH Willaims,100,302,4,82,V (Vegative)
+2023,June,14,IH Willaims,100,302,5,84,V (Vegative)
+2023,June,14,IH Willaims,100,302,6,101,V (Vegative)
+2023,June,14,IH Willaims,100,302,7,79,V (Vegative)
+2023,June,14,IH Willaims,100,302,8,54,V (Vegative)
+2023,June,14,IH Willaims,100,302,9,86,V (Vegative)
+2023,June,14,IH Willaims,100,302,10,73,V (Vegative)
+2023,June,14,IH Willaims,150,303,1,101,V (Vegative)
+2023,June,14,IH Willaims,150,303,2,83,V (Vegative)
+2023,June,14,IH Willaims,150,303,3,72,V (Vegative)
+2023,June,14,IH Willaims,150,303,4,84,V (Vegative)
+2023,June,14,IH Willaims,150,303,5,68,V (Vegative)
+2023,June,14,IH Willaims,150,303,6,69,V (Vegative)
+2023,June,14,IH Willaims,150,303,7,52,V (Vegative)
+2023,June,14,IH Willaims,150,303,8,72,V (Vegative)
+2023,June,14,IH Willaims,150,303,9,87,V (Vegative)
+2023,June,14,IH Willaims,150,303,10,87,V (Vegative)
+2023,June,14,IH Willaims,200,304,1,80,V (Vegative)
+2023,June,14,IH Willaims,200,304,2,91,V (Vegative)
+2023,June,14,IH Willaims,200,304,3,93,V (Vegative)
+2023,June,14,IH Willaims,200,304,4,115,V (Vegative)
+2023,June,14,IH Willaims,200,304,5,94,V (Vegative)
+2023,June,14,IH Willaims,200,304,6,84,V (Vegative)
+2023,June,14,IH Willaims,200,304,7,50,V (Vegative)
+2023,June,14,IH Willaims,200,304,8,85,V (Vegative)
+2023,June,14,IH Willaims,200,304,9,86,V (Vegative)
+2023,June,14,IH Willaims,200,304,10,71,V (Vegative)
+2023,June,14,IH Willaims,0,305,1,28,V (Vegative)
+2023,June,14,IH Willaims,0,305,2,37,V (Vegative)
+2023,June,14,IH Willaims,0,305,3,33,V (Vegative)
+2023,June,14,IH Willaims,0,305,4,30,V (Vegative)
+2023,June,14,IH Willaims,0,305,5,28,V (Vegative)
+2023,June,14,IH Willaims,0,305,6,29,V (Vegative)
+2023,June,14,IH Willaims,0,305,7,42,V (Vegative)
+2023,June,14,IH Willaims,0,305,8,41,V (Vegative)
+2023,June,14,IH Willaims,0,305,9,32,V (Vegative)
+2023,June,14,IH Willaims,0,305,10,20,V (Vegative)
+2023,June,14,IH Willaims,100,306,1,76,V (Vegative)
+2023,June,14,IH Willaims,100,306,2,70,V (Vegative)
+2023,June,14,IH Willaims,100,306,3,85,V (Vegative)
+2023,June,14,IH Willaims,100,306,4,62,V (Vegative)
+2023,June,14,IH Willaims,100,306,5,59,V (Vegative)
+2023,June,14,IH Willaims,100,306,6,36,V (Vegative)
+2023,June,14,IH Willaims,100,306,7,60,V (Vegative)
+2023,June,14,IH Willaims,100,306,8,37,V (Vegative)
+2023,June,14,IH Willaims,100,306,9,68,V (Vegative)
+2023,June,14,IH Willaims,100,306,10,50,V (Vegative)
+2023,June,14,IH Willaims,150,401,1,61,V (Vegative)
+2023,June,14,IH Willaims,150,401,2,72,V (Vegative)
+2023,June,14,IH Willaims,150,401,3,77,V (Vegative)
+2023,June,14,IH Willaims,150,401,4,84,V (Vegative)
+2023,June,14,IH Willaims,150,401,5,85,V (Vegative)
+2023,June,14,IH Willaims,150,401,6,59,V (Vegative)
+2023,June,14,IH Willaims,150,401,7,68,V (Vegative)
+2023,June,14,IH Willaims,150,401,8,40,V (Vegative)
+2023,June,14,IH Willaims,150,401,9,56,V (Vegative)
+2023,June,14,IH Willaims,150,401,10,59,V (Vegative)
+2023,June,14,IH Willaims,200,402,1,105,V (Vegative)
+2023,June,14,IH Willaims,200,402,2,92,V (Vegative)
+2023,June,14,IH Willaims,200,402,3,90,V (Vegative)
+2023,June,14,IH Willaims,200,402,4,89,V (Vegative)
+2023,June,14,IH Willaims,200,402,5,96,V (Vegative)
+2023,June,14,IH Willaims,200,402,6,99,V (Vegative)
+2023,June,14,IH Willaims,200,402,7,78,V (Vegative)
+2023,June,14,IH Willaims,200,402,8,94,V (Vegative)
+2023,June,14,IH Willaims,200,402,9,77,V (Vegative)
+2023,June,14,IH Willaims,200,402,10,82,V (Vegative)
+2023,June,14,IH Willaims,0,403,1,29,V (Vegative)
+2023,June,14,IH Willaims,0,403,2,32,V (Vegative)
+2023,June,14,IH Willaims,0,403,3,34,V (Vegative)
+2023,June,14,IH Willaims,0,403,4,36,V (Vegative)
+2023,June,14,IH Willaims,0,403,5,15,V (Vegative)
+2023,June,14,IH Willaims,0,403,6,31,V (Vegative)
+2023,June,14,IH Willaims,0,403,7,53,V (Vegative)
+2023,June,14,IH Willaims,0,403,8,36,V (Vegative)
+2023,June,14,IH Willaims,0,403,9,51,V (Vegative)
+2023,June,14,IH Willaims,0,403,10,35,V (Vegative)
+2023,June,14,IH Willaims,100,404,1,104,V (Vegative)
+2023,June,14,IH Willaims,100,404,2,92,V (Vegative)
+2023,June,14,IH Willaims,100,404,3,88,V (Vegative)
+2023,June,14,IH Willaims,100,404,4,79,V (Vegative)
+2023,June,14,IH Willaims,100,404,5,83,V (Vegative)
+2023,June,14,IH Willaims,100,404,6,95,V (Vegative)
+2023,June,14,IH Willaims,100,404,7,76,V (Vegative)
+2023,June,14,IH Willaims,100,404,8,65,V (Vegative)
+2023,June,14,IH Willaims,100,404,9,71,V (Vegative)
+2023,June,14,IH Willaims,100,404,10,72,V (Vegative)
+2023,June,14,IH Willaims,150,405,1,86,V (Vegative)
+2023,June,14,IH Willaims,150,405,2,81,V (Vegative)
+2023,June,14,IH Willaims,150,405,3,93,V (Vegative)
+2023,June,14,IH Willaims,150,405,4,66,V (Vegative)
+2023,June,14,IH Willaims,150,405,5,74,V (Vegative)
+2023,June,14,IH Willaims,150,405,6,73,V (Vegative)
+2023,June,14,IH Willaims,150,405,7,76,V (Vegative)
+2023,June,14,IH Willaims,150,405,8,59,V (Vegative)
+2023,June,14,IH Willaims,150,405,9,69,V (Vegative)
+2023,June,14,IH Willaims,150,405,10,67,V (Vegative)
+2023,June,14,IH Willaims,200,406,1,78,V (Vegative)
+2023,June,14,IH Willaims,200,406,2,85,V (Vegative)
+2023,June,14,IH Willaims,200,406,3,98,V (Vegative)
+2023,June,14,IH Willaims,200,406,4,106,V (Vegative)
+2023,June,14,IH Willaims,200,406,5,79,V (Vegative)
+2023,June,14,IH Willaims,200,406,6,77,V (Vegative)
+2023,June,14,IH Willaims,200,406,7,86,V (Vegative)
+2023,June,14,IH Willaims,200,406,8,76,V (Vegative)
+2023,June,14,IH Willaims,200,406,9,97,V (Vegative)
+2023,June,14,IH Willaims,200,406,10,82,V (Vegative)
+2023,June,26,IH Willaims,200,101,1,94,M
+2023,June,26,IH Willaims,200,101,2,113,M
+2023,June,26,IH Willaims,200,101,3,100,M
+2023,June,26,IH Willaims,200,101,4,48,V
+2023,June,26,IH Willaims,200,101,5,40,V
+2023,June,26,IH Willaims,200,101,6,90,M
+2023,June,26,IH Willaims,200,101,7,137,M
+2023,June,26,IH Willaims,200,101,8,100,V
+2023,June,26,IH Willaims,200,101,9,120,M
+2023,June,26,IH Willaims,200,101,10,85,V
+2023,June,26,IH Willaims,150,102,1,100,M
+2023,June,26,IH Willaims,150,102,2,135,M
+2023,June,26,IH Willaims,150,102,3,95,V
+2023,June,26,IH Willaims,150,102,4,110,V
+2023,June,26,IH Willaims,150,102,5,122,V
+2023,June,26,IH Willaims,150,102,6,147,M
+2023,June,26,IH Willaims,150,102,7,110,V
+2023,June,26,IH Willaims,150,102,8,135,V
+2023,June,26,IH Willaims,150,102,9,183,M
+2023,June,26,IH Willaims,150,102,10,118,V
+2023,June,26,IH Willaims,100,103,1,135,M
+2023,June,26,IH Willaims,100,103,2,109,M
+2023,June,26,IH Willaims,100,103,3,150,M
+2023,June,26,IH Willaims,100,103,4,120,M
+2023,June,26,IH Willaims,100,103,5,144,V
+2023,June,26,IH Willaims,100,103,6,111,V
+2023,June,26,IH Willaims,100,103,7,100,V
+2023,June,26,IH Willaims,100,103,8,106,V
+2023,June,26,IH Willaims,100,103,9,98,M
+2023,June,26,IH Willaims,100,103,10,113,V
+2023,June,26,IH Willaims,0,104,1,73,M
+2023,June,26,IH Willaims,0,104,2,35,V
+2023,June,26,IH Willaims,0,104,3,36,V
+2023,June,26,IH Willaims,0,104,4,71,M
+2023,June,26,IH Willaims,0,104,5,41,V
+2023,June,26,IH Willaims,0,104,6,47,M
+2023,June,26,IH Willaims,0,104,7,90,V
+2023,June,26,IH Willaims,0,104,8,45,M
+2023,June,26,IH Willaims,0,104,9,75,V
+2023,June,26,IH Willaims,0,104,10,38,V
+2023,June,26,IH Willaims,200,105,1,133,V
+2023,June,26,IH Willaims,200,105,2,167,M
+2023,June,26,IH Willaims,200,105,3,160,V
+2023,June,26,IH Willaims,200,105,4,130,V
+2023,June,26,IH Willaims,200,105,5,171,V
+2023,June,26,IH Willaims,200,105,6,148,V
+2023,June,26,IH Willaims,200,105,7,145,V
+2023,June,26,IH Willaims,200,105,8,166,V
+2023,June,26,IH Willaims,200,105,9,160,M
+2023,June,26,IH Willaims,200,105,10,144,M
+2023,June,26,IH Willaims,150,106,1,140,V
+2023,June,26,IH Willaims,150,106,2,172,M
+2023,June,26,IH Willaims,150,106,3,122,V
+2023,June,26,IH Willaims,150,106,4,137,V
+2023,June,26,IH Willaims,150,106,5,165,M
+2023,June,26,IH Willaims,150,106,6,134,V
+2023,June,26,IH Willaims,150,106,7,164,M
+2023,June,26,IH Willaims,150,106,8,140,M
+2023,June,26,IH Willaims,150,106,9,138,V
+2023,June,26,IH Willaims,150,106,10,167,M
+2023,June,26,IH Willaims,100,201,1,117,M
+2023,June,26,IH Willaims,100,201,2,121,V
+2023,June,26,IH Willaims,100,201,3,154,M
+2023,June,26,IH Willaims,100,201,4,109,V
+2023,June,26,IH Willaims,100,201,5,109,M
+2023,June,26,IH Willaims,100,201,6,94,V
+2023,June,26,IH Willaims,100,201,7,100,V
+2023,June,26,IH Willaims,100,201,8,130,M
+2023,June,26,IH Willaims,100,201,9,185,M
+2023,June,26,IH Willaims,100,201,10,90,V
+2023,June,26,IH Willaims,0,202,1,48,M
+2023,June,26,IH Willaims,0,202,2,24,V
+2023,June,26,IH Willaims,0,202,3,65,M
+2023,June,26,IH Willaims,0,202,4,35,V
+2023,June,26,IH Willaims,0,202,5,30,V
+2023,June,26,IH Willaims,0,202,6,69,M
+2023,June,26,IH Willaims,0,202,7,32,V
+2023,June,26,IH Willaims,0,202,8,62,M
+2023,June,26,IH Willaims,0,202,9,52,V
+2023,June,26,IH Willaims,0,202,10,42,V
+2023,June,26,IH Willaims,200,203,1,130,V
+2023,June,26,IH Willaims,200,203,2,128,V
+2023,June,26,IH Willaims,200,203,3,147,V
+2023,June,26,IH Willaims,200,203,4,145,M
+2023,June,26,IH Willaims,200,203,5,157,V
+2023,June,26,IH Willaims,200,203,6,114,M
+2023,June,26,IH Willaims,200,203,7,107,M
+2023,June,26,IH Willaims,200,203,8,136,M
+2023,June,26,IH Willaims,200,203,9,132,V
+2023,June,26,IH Willaims,200,203,10,154,V
+2023,June,26,IH Willaims,150,204,1,150,V
+2023,June,26,IH Willaims,150,204,2,160,M
+2023,June,26,IH Willaims,150,204,3,173,M
+2023,June,26,IH Willaims,150,204,4,170,V
+2023,June,26,IH Willaims,150,204,5,167,V
+2023,June,26,IH Willaims,150,204,6,158,V
+2023,June,26,IH Willaims,150,204,7,155,M
+2023,June,26,IH Willaims,150,204,8,180,V
+2023,June,26,IH Willaims,150,204,9,160,M
+2023,June,26,IH Willaims,150,204,10,162,V
+2023,June,26,IH Willaims,100,205,1,160,M
+2023,June,26,IH Willaims,100,205,2,164,M
+2023,June,26,IH Willaims,100,205,3,154,M
+2023,June,26,IH Willaims,100,205,4,172,V
+2023,June,26,IH Willaims,100,205,5,162,V
+2023,June,26,IH Willaims,100,205,6,157,V
+2023,June,26,IH Willaims,100,205,7,181,M
+2023,June,26,IH Willaims,100,205,8,130,V
+2023,June,26,IH Willaims,100,205,9,180,M
+2023,June,26,IH Willaims,100,205,10,160,V
+2023,June,26,IH Willaims,0,206,1,65,M
+2023,June,26,IH Willaims,0,206,2,40,V
+2023,June,26,IH Willaims,0,206,3,62,M
+2023,June,26,IH Willaims,0,206,4,30,V
+2023,June,26,IH Willaims,0,206,5,48,V
+2023,June,26,IH Willaims,0,206,6,84,M
+2023,June,26,IH Willaims,0,206,7,81,M
+2023,June,26,IH Willaims,0,206,8,35,V
+2023,June,26,IH Willaims,0,206,9,40,V
+2023,June,26,IH Willaims,0,206,10,78,M
+2023,June,26,IH Willaims,0,301,1,60,M
+2023,June,26,IH Willaims,0,301,2,33,V
+2023,June,26,IH Willaims,0,301,3,37,V
+2023,June,26,IH Willaims,0,301,4,48,M
+2023,June,26,IH Willaims,0,301,5,72,M
+2023,June,26,IH Willaims,0,301,6,30,V
+2023,June,26,IH Willaims,0,301,7,40,V
+2023,June,26,IH Willaims,0,301,8,25,V
+2023,June,26,IH Willaims,0,301,9,51,M
+2023,June,26,IH Willaims,0,301,10,31,V
+2023,June,26,IH Willaims,100,302,1,110,V
+2023,June,26,IH Willaims,100,302,2,115,V
+2023,June,26,IH Willaims,100,302,3,168,M
+2023,June,26,IH Willaims,100,302,4,135,V
+2023,June,26,IH Willaims,100,302,5,161,M
+2023,June,26,IH Willaims,100,302,6,135,V
+2023,June,26,IH Willaims,100,302,7,101,V
+2023,June,26,IH Willaims,100,302,8,99,V
+2023,June,26,IH Willaims,100,302,9,167,M
+2023,June,26,IH Willaims,100,302,10,140,V
+2023,June,26,IH Willaims,150,303,1,130,M
+2023,June,26,IH Willaims,150,303,2,90,V
+2023,June,26,IH Willaims,150,303,3,130,M
+2023,June,26,IH Willaims,150,303,4,127,M
+2023,June,26,IH Willaims,150,303,5,104,V
+2023,June,26,IH Willaims,150,303,6,132,V
+2023,June,26,IH Willaims,150,303,7,122,M
+2023,June,26,IH Willaims,150,303,8,142,V
+2023,June,26,IH Willaims,150,303,9,184,M
+2023,June,26,IH Willaims,150,303,10,108,V
+2023,June,26,IH Willaims,200,304,1,150,M
+2023,June,26,IH Willaims,200,304,2,130,V
+2023,June,26,IH Willaims,200,304,3,165,M
+2023,June,26,IH Willaims,200,304,4,155,M
+2023,June,26,IH Willaims,200,304,5,141,V
+2023,June,26,IH Willaims,200,304,6,145,V
+2023,June,26,IH Willaims,200,304,7,104,V
+2023,June,26,IH Willaims,200,304,8,155,M
+2023,June,26,IH Willaims,200,304,9,140,V
+2023,June,26,IH Willaims,200,304,10,126,M
+2023,June,26,IH Willaims,0,305,1,39,V
+2023,June,26,IH Willaims,0,305,2,33,V
+2023,June,26,IH Willaims,0,305,3,50,V
+2023,June,26,IH Willaims,0,305,4,64,M
+2023,June,26,IH Willaims,0,305,5,70,M
+2023,June,26,IH Willaims,0,305,6,80,M
+2023,June,26,IH Willaims,0,305,7,40,V
+2023,June,26,IH Willaims,0,305,8,38,V
+2023,June,26,IH Willaims,0,305,9,47,V
+2023,June,26,IH Willaims,0,305,10,44,V
+2023,June,26,IH Willaims,100,306,1,89,V
+2023,June,26,IH Willaims,100,306,2,108,V
+2023,June,26,IH Willaims,100,306,3,100,V
+2023,June,26,IH Willaims,100,306,4,90,M
+2023,June,26,IH Willaims,100,306,5,109,M
+2023,June,26,IH Willaims,100,306,6,80,V
+2023,June,26,IH Willaims,100,306,7,70,V
+2023,June,26,IH Willaims,100,306,8,84,M
+2023,June,26,IH Willaims,100,306,9,135,M
+2023,June,26,IH Willaims,100,306,10,100,V
+2023,June,26,IH Willaims,150,401,1,107,V
+2023,June,26,IH Willaims,150,401,2,126,V
+2023,June,26,IH Willaims,150,401,3,120,V
+2023,June,26,IH Willaims,150,401,4,134,M
+2023,June,26,IH Willaims,150,401,5,165,M
+2023,June,26,IH Willaims,150,401,6,87,V
+2023,June,26,IH Willaims,150,401,7,104,V
+2023,June,26,IH Willaims,150,401,8,124,M
+2023,June,26,IH Willaims,150,401,9,116,M
+2023,June,26,IH Willaims,150,401,10,91,V
+2023,June,26,IH Willaims,200,402,1,147,V
+2023,June,26,IH Willaims,200,402,2,139,V
+2023,June,26,IH Willaims,200,402,3,113,M
+2023,June,26,IH Willaims,200,402,4,118,M
+2023,June,26,IH Willaims,200,402,5,160,V
+2023,June,26,IH Willaims,200,402,6,160,V
+2023,June,26,IH Willaims,200,402,7,135,V
+2023,June,26,IH Willaims,200,402,8,171,M
+2023,June,26,IH Willaims,200,402,9,122,V
+2023,June,26,IH Willaims,200,402,10,155,M
+2023,June,26,IH Willaims,0,403,1,47,V
+2023,June,26,IH Willaims,0,403,2,42,V
+2023,June,26,IH Willaims,0,403,3,64,M
+2023,June,26,IH Willaims,0,403,4,46,V
+2023,June,26,IH Willaims,0,403,5,67,M
+2023,June,26,IH Willaims,0,403,6,65,V
+2023,June,26,IH Willaims,0,403,7,84,M
+2023,June,26,IH Willaims,0,403,8,58,V
+2023,June,26,IH Willaims,0,403,9,62,V
+2023,June,26,IH Willaims,0,403,10,78,M
+2023,June,26,IH Willaims,100,404,1,159,M
+2023,June,26,IH Willaims,100,404,2,112,V
+2023,June,26,IH Willaims,100,404,3,98,V
+2023,June,26,IH Willaims,100,404,4,119,V
+2023,June,26,IH Willaims,100,404,5,104,V
+2023,June,26,IH Willaims,100,404,6,125,V
+2023,June,26,IH Willaims,100,404,7,131,M
+2023,June,26,IH Willaims,100,404,8,137,M
+2023,June,26,IH Willaims,100,404,9,132,M
+2023,June,26,IH Willaims,100,404,10,77,V
+2023,June,26,IH Willaims,150,405,1,123,M
+2023,June,26,IH Willaims,150,405,2,125,V
+2023,June,26,IH Willaims,150,405,3,117,V
+2023,June,26,IH Willaims,150,405,4,150,M
+2023,June,26,IH Willaims,150,405,5,102,V
+2023,June,26,IH Willaims,150,405,6,148,M
+2023,June,26,IH Willaims,150,405,7,108,M
+2023,June,26,IH Willaims,150,405,8,110,V
+2023,June,26,IH Willaims,150,405,9,118,V
+2023,June,26,IH Willaims,150,405,10,122,V
+2023,June,26,IH Willaims,200,406,1,114,V
+2023,June,26,IH Willaims,200,406,2,120,V
+2023,June,26,IH Willaims,200,406,3,155,M
+2023,June,26,IH Willaims,200,406,4,159,M
+2023,June,26,IH Willaims,200,406,5,146,V
+2023,June,26,IH Willaims,200,406,6,138,V
+2023,June,26,IH Willaims,200,406,7,182,M
+2023,June,26,IH Willaims,200,406,8,116,V
+2023,June,26,IH Willaims,200,406,9,110,V
+2023,June,26,IH Willaims,200,406,10,122,V
+2023,May,30,IH Willaims,200,101,1,18,Vegetative
+2023,May,30,IH Willaims,200,101,2,8,Vegetative
+2023,May,30,IH Willaims,200,101,3,10,Vegetative
+2023,May,30,IH Willaims,200,101,4,11,Vegetative
+2023,May,30,IH Willaims,200,101,5,10,Vegetative
+2023,May,30,IH Willaims,200,101,6,5,Vegetative
+2023,May,30,IH Willaims,200,101,7,5,Vegetative
+2023,May,30,IH Willaims,200,101,8,5,Vegetative
+2023,May,30,IH Willaims,200,101,9,8,Vegetative
+2023,May,30,IH Willaims,200,101,10,8,Vegetative
+2023,May,30,IH Willaims,150,102,1,15,Vegetative
+2023,May,30,IH Willaims,150,102,2,15,Vegetative
+2023,May,30,IH Willaims,150,102,3,13,Vegetative
+2023,May,30,IH Willaims,150,102,4,10,Vegetative
+2023,May,30,IH Willaims,150,102,5,18,Vegetative
+2023,May,30,IH Willaims,150,102,6,8,Vegetative
+2023,May,30,IH Willaims,150,102,7,8,Vegetative
+2023,May,30,IH Willaims,150,102,8,8,Vegetative
+2023,May,30,IH Willaims,150,102,9,20,Vegetative
+2023,May,30,IH Willaims,150,102,10,15,Vegetative
+2023,May,30,IH Willaims,100,103,1,18,Vegetative
+2023,May,30,IH Willaims,100,103,2,18,Vegetative
+2023,May,30,IH Willaims,100,103,3,8,Vegetative
+2023,May,30,IH Willaims,100,103,4,14,Vegetative
+2023,May,30,IH Willaims,100,103,5,10,Vegetative
+2023,May,30,IH Willaims,100,103,6,18,Vegetative
+2023,May,30,IH Willaims,100,103,7,5,Vegetative
+2023,May,30,IH Willaims,100,103,8,10,Vegetative
+2023,May,30,IH Willaims,100,103,9,13,Vegetative
+2023,May,30,IH Willaims,100,103,10,10,Vegetative
+2023,May,30,IH Willaims,0,104,1,6,Vegetative
+2023,May,30,IH Willaims,0,104,2,13,Vegetative
+2023,May,30,IH Willaims,0,104,3,10,Vegetative
+2023,May,30,IH Willaims,0,104,4,8,Vegetative
+2023,May,30,IH Willaims,0,104,5,8,Vegetative
+2023,May,30,IH Willaims,0,104,6,10,Vegetative
+2023,May,30,IH Willaims,0,104,7,10,Vegetative
+2023,May,30,IH Willaims,0,104,8,5,Vegetative
+2023,May,30,IH Willaims,0,104,9,13,Vegetative
+2023,May,30,IH Willaims,0,104,10,6,Vegetative
+2023,May,30,IH Willaims,200,105,1,25,Vegetative
+2023,May,30,IH Willaims,200,105,2,23,Vegetative
+2023,May,30,IH Willaims,200,105,3,18,Vegetative
+2023,May,30,IH Willaims,200,105,4,17,Vegetative
+2023,May,30,IH Willaims,200,105,5,10,Vegetative
+2023,May,30,IH Willaims,200,105,6,8,Vegetative
+2023,May,30,IH Willaims,200,105,7,13,Vegetative
+2023,May,30,IH Willaims,200,105,8,10,Vegetative
+2023,May,30,IH Willaims,200,105,9,8,Vegetative
+2023,May,30,IH Willaims,200,105,10,10,Vegetative
+2023,May,30,IH Willaims,150,106,1,20,Vegetative
+2023,May,30,IH Willaims,150,106,2,15,Vegetative
+2023,May,30,IH Willaims,150,106,3,6,Vegetative
+2023,May,30,IH Willaims,150,106,4,11,Vegetative
+2023,May,30,IH Willaims,150,106,5,10,Vegetative
+2023,May,30,IH Willaims,150,106,6,6,Vegetative
+2023,May,30,IH Willaims,150,106,7,10,Vegetative
+2023,May,30,IH Willaims,150,106,8,6,Vegetative
+2023,May,30,IH Willaims,150,106,9,10,Vegetative
+2023,May,30,IH Willaims,150,106,10,10,Vegetative
+2023,May,30,IH Willaims,100,201,1,18,Vegetative
+2023,May,30,IH Willaims,100,201,2,13,Vegetative
+2023,May,30,IH Willaims,100,201,3,18,Vegetative
+2023,May,30,IH Willaims,100,201,4,15,Vegetative
+2023,May,30,IH Willaims,100,201,5,10,Vegetative
+2023,May,30,IH Willaims,100,201,6,8,Vegetative
+2023,May,30,IH Willaims,100,201,7,4,Vegetative
+2023,May,30,IH Willaims,100,201,8,9,Vegetative
+2023,May,30,IH Willaims,100,201,9,15,Vegetative
+2023,May,30,IH Willaims,100,201,10,25,Vegetative
+2023,May,30,IH Willaims,0,202,1,8,Vegetative
+2023,May,30,IH Willaims,0,202,2,10,Vegetative
+2023,May,30,IH Willaims,0,202,3,5,Vegetative
+2023,May,30,IH Willaims,0,202,4,6,Vegetative
+2023,May,30,IH Willaims,0,202,5,5,Vegetative
+2023,May,30,IH Willaims,0,202,6,5,Vegetative
+2023,May,30,IH Willaims,0,202,7,3,Vegetative
+2023,May,30,IH Willaims,0,202,8,3,Vegetative
+2023,May,30,IH Willaims,0,202,9,8,Vegetative
+2023,May,30,IH Willaims,0,202,10,8,Vegetative
+2023,May,30,IH Willaims,200,203,1,18,Vegetative
+2023,May,30,IH Willaims,200,203,2,13,Vegetative
+2023,May,30,IH Willaims,200,203,3,17,Vegetative
+2023,May,30,IH Willaims,200,203,4,13,Vegetative
+2023,May,30,IH Willaims,200,203,5,8,Vegetative
+2023,May,30,IH Willaims,200,203,6,10,Vegetative
+2023,May,30,IH Willaims,200,203,7,9,Vegetative
+2023,May,30,IH Willaims,200,203,8,8,Vegetative
+2023,May,30,IH Willaims,200,203,9,18,Vegetative
+2023,May,30,IH Willaims,200,203,10,8,Vegetative
+2023,May,30,IH Willaims,150,204,1,15,Vegetative
+2023,May,30,IH Willaims,150,204,2,10,Vegetative
+2023,May,30,IH Willaims,150,204,3,10,Vegetative
+2023,May,30,IH Willaims,150,204,4,8,Vegetative
+2023,May,30,IH Willaims,150,204,5,8,Vegetative
+2023,May,30,IH Willaims,150,204,6,20,Vegetative
+2023,May,30,IH Willaims,150,204,7,15,Vegetative
+2023,May,30,IH Willaims,150,204,8,13,Vegetative
+2023,May,30,IH Willaims,150,204,9,9,Vegetative
+2023,May,30,IH Willaims,150,204,10,22,Vegetative
+2023,May,30,IH Willaims,100,205,1,43,Vegetative
+2023,May,30,IH Willaims,100,205,2,58,Vegetative
+2023,May,30,IH Willaims,100,205,3,20,Vegetative
+2023,May,30,IH Willaims,100,205,4,23,Vegetative
+2023,May,30,IH Willaims,100,205,5,48,Vegetative
+2023,May,30,IH Willaims,100,205,6,51,Vegetative
+2023,May,30,IH Willaims,100,205,7,20,Vegetative
+2023,May,30,IH Willaims,100,205,8,20,Vegetative
+2023,May,30,IH Willaims,100,205,9,23,Vegetative
+2023,May,30,IH Willaims,100,205,10,43,Vegetative
+2023,May,30,IH Willaims,0,206,1,5,Vegetative
+2023,May,30,IH Willaims,0,206,2,8,Vegetative
+2023,May,30,IH Willaims,0,206,3,10,Vegetative
+2023,May,30,IH Willaims,0,206,4,8,Vegetative
+2023,May,30,IH Willaims,0,206,5,8,Vegetative
+2023,May,30,IH Willaims,0,206,6,13,Vegetative
+2023,May,30,IH Willaims,0,206,7,15,Vegetative
+2023,May,30,IH Willaims,0,206,8,10,Vegetative
+2023,May,30,IH Willaims,0,206,9,5,Vegetative
+2023,May,30,IH Willaims,0,206,10,8,Vegetative
+2023,May,30,IH Willaims,0,301,1,8,Vegetative
+2023,May,30,IH Willaims,0,301,2,8,Vegetative
+2023,May,30,IH Willaims,0,301,3,9,Vegetative
+2023,May,30,IH Willaims,0,301,4,5,Vegetative
+2023,May,30,IH Willaims,0,301,5,5,Vegetative
+2023,May,30,IH Willaims,0,301,6,8,Vegetative
+2023,May,30,IH Willaims,0,301,7,5,Vegetative
+2023,May,30,IH Willaims,0,301,8,3,Vegetative
+2023,May,30,IH Willaims,0,301,9,4,Vegetative
+2023,May,30,IH Willaims,0,301,10,8,Vegetative
+2023,May,30,IH Willaims,100,302,1,19,Vegetative
+2023,May,30,IH Willaims,100,302,2,22,Vegetative
+2023,May,30,IH Willaims,100,302,3,10,Vegetative
+2023,May,30,IH Willaims,100,302,4,10,Vegetative
+2023,May,30,IH Willaims,100,302,5,18,Vegetative
+2023,May,30,IH Willaims,100,302,6,8,Vegetative
+2023,May,30,IH Willaims,100,302,7,8,Vegetative
+2023,May,30,IH Willaims,100,302,8,9,Vegetative
+2023,May,30,IH Willaims,100,302,9,5,Vegetative
+2023,May,30,IH Willaims,100,302,10,6,Vegetative
+2023,May,30,IH Willaims,150,303,1,18,Vegetative
+2023,May,30,IH Willaims,150,303,2,18,Vegetative
+2023,May,30,IH Willaims,150,303,3,15,Vegetative
+2023,May,30,IH Willaims,150,303,4,8,Vegetative
+2023,May,30,IH Willaims,150,303,5,10,Vegetative
+2023,May,30,IH Willaims,150,303,6,8,Vegetative
+2023,May,30,IH Willaims,150,303,7,10,Vegetative
+2023,May,30,IH Willaims,150,303,8,8,Vegetative
+2023,May,30,IH Willaims,150,303,9,8,Vegetative
+2023,May,30,IH Willaims,150,303,10,8,Vegetative
+2023,May,30,IH Willaims,200,304,1,22,Vegetative
+2023,May,30,IH Willaims,200,304,2,17,Vegetative
+2023,May,30,IH Willaims,200,304,3,10,Vegetative
+2023,May,30,IH Willaims,200,304,4,11,Vegetative
+2023,May,30,IH Willaims,200,304,5,8,Vegetative
+2023,May,30,IH Willaims,200,304,6,18,Vegetative
+2023,May,30,IH Willaims,200,304,7,13,Vegetative
+2023,May,30,IH Willaims,200,304,8,11,Vegetative
+2023,May,30,IH Willaims,200,304,9,9,Vegetative
+2023,May,30,IH Willaims,200,304,10,10,Vegetative
+2023,May,30,IH Willaims,0,305,1,10,Vegetative
+2023,May,30,IH Willaims,0,305,2,6,Vegetative
+2023,May,30,IH Willaims,0,305,3,10,Vegetative
+2023,May,30,IH Willaims,0,305,4,8,Vegetative
+2023,May,30,IH Willaims,0,305,5,8,Vegetative
+2023,May,30,IH Willaims,0,305,6,5,Vegetative
+2023,May,30,IH Willaims,0,305,7,6,Vegetative
+2023,May,30,IH Willaims,0,305,8,8,Vegetative
+2023,May,30,IH Willaims,0,305,9,8,Vegetative
+2023,May,30,IH Willaims,0,305,10,25,Vegetative
+2023,May,30,IH Willaims,100,306,1,19,Vegetative
+2023,May,30,IH Willaims,100,306,2,13,Vegetative
+2023,May,30,IH Willaims,100,306,3,8,Vegetative
+2023,May,30,IH Willaims,100,306,4,9,Vegetative
+2023,May,30,IH Willaims,100,306,5,6,Vegetative
+2023,May,30,IH Willaims,100,306,6,13,Vegetative
+2023,May,30,IH Willaims,100,306,7,9,Vegetative
+2023,May,30,IH Willaims,100,306,8,11,Vegetative
+2023,May,30,IH Willaims,100,306,9,18,Vegetative
+2023,May,30,IH Willaims,100,306,10,20,Vegetative
+2023,May,30,IH Willaims,150,401,1,20,Vegetative
+2023,May,30,IH Willaims,150,401,2,17,Vegetative
+2023,May,30,IH Willaims,150,401,3,13,Vegetative
+2023,May,30,IH Willaims,150,401,4,20,Vegetative
+2023,May,30,IH Willaims,150,401,5,5,Vegetative
+2023,May,30,IH Willaims,150,401,6,8,Vegetative
+2023,May,30,IH Willaims,150,401,7,5,Vegetative
+2023,May,30,IH Willaims,150,401,8,10,Vegetative
+2023,May,30,IH Willaims,150,401,9,10,Vegetative
+2023,May,30,IH Willaims,150,401,10,6,Vegetative
+2023,May,30,IH Willaims,200,402,1,20,Vegetative
+2023,May,30,IH Willaims,200,402,2,18,Vegetative
+2023,May,30,IH Willaims,200,402,3,13,Vegetative
+2023,May,30,IH Willaims,200,402,4,6,Vegetative
+2023,May,30,IH Willaims,200,402,5,10,Vegetative
+2023,May,30,IH Willaims,200,402,6,15,Vegetative
+2023,May,30,IH Willaims,200,402,7,8,Vegetative
+2023,May,30,IH Willaims,200,402,8,10,Vegetative
+2023,May,30,IH Willaims,200,402,9,20,Vegetative
+2023,May,30,IH Willaims,200,402,10,10,Vegetative
+2023,May,30,IH Willaims,0,403,1,5,Vegetative
+2023,May,30,IH Willaims,0,403,2,8,Vegetative
+2023,May,30,IH Willaims,0,403,3,13,Vegetative
+2023,May,30,IH Willaims,0,403,4,13,Vegetative
+2023,May,30,IH Willaims,0,403,5,11,Vegetative
+2023,May,30,IH Willaims,0,403,6,13,Vegetative
+2023,May,30,IH Willaims,0,403,7,13,Vegetative
+2023,May,30,IH Willaims,0,403,8,10,Vegetative
+2023,May,30,IH Willaims,0,403,9,10,Vegetative
+2023,May,30,IH Willaims,0,403,10,8,Vegetative
+2023,May,30,IH Willaims,100,404,1,20,Vegetative
+2023,May,30,IH Willaims,100,404,2,18,Vegetative
+2023,May,30,IH Willaims,100,404,3,13,Vegetative
+2023,May,30,IH Willaims,100,404,4,6,Vegetative
+2023,May,30,IH Willaims,100,404,5,10,Vegetative
+2023,May,30,IH Willaims,100,404,6,15,Vegetative
+2023,May,30,IH Willaims,100,404,7,8,Vegetative
+2023,May,30,IH Willaims,100,404,8,10,Vegetative
+2023,May,30,IH Willaims,100,404,9,20,Vegetative
+2023,May,30,IH Willaims,100,404,10,10,Vegetative
+2023,May,30,IH Willaims,150,405,1,18,Vegetative
+2023,May,30,IH Willaims,150,405,2,18,Vegetative
+2023,May,30,IH Willaims,150,405,3,22,Vegetative
+2023,May,30,IH Willaims,150,405,4,15,Vegetative
+2023,May,30,IH Willaims,150,405,5,18,Vegetative
+2023,May,30,IH Willaims,150,405,6,13,Vegetative
+2023,May,30,IH Willaims,150,405,7,18,Vegetative
+2023,May,30,IH Willaims,150,405,8,8,Vegetative
+2023,May,30,IH Willaims,150,405,9,10,Vegetative
+2023,May,30,IH Willaims,150,405,10,19,Vegetative
+2023,May,30,IH Willaims,200,406,1,23,Vegetative
+2023,May,30,IH Willaims,200,406,2,18,Vegetative
+2023,May,30,IH Willaims,200,406,3,14,Vegetative
+2023,May,30,IH Willaims,200,406,4,8,Vegetative
+2023,May,30,IH Willaims,200,406,5,13,Vegetative
+2023,May,30,IH Willaims,200,406,6,10,Vegetative
+2023,May,30,IH Willaims,200,406,7,13,Vegetative
+2023,May,30,IH Willaims,200,406,8,11,Vegetative
+2023,May,30,IH Willaims,200,406,9,17,Vegetative
+2023,May,30,IH Willaims,200,406,10,17,Vegetative
