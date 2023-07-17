@@ -46,14 +46,16 @@ ggplot(DataSD,aes(x=DataSD$Rate,y=DataSD$`Standard Deviation of Plant Height`,fi
   theme(axis.title = element_text(size = 20))
 
 ggplot(DataMean,aes(Rate))+
-  geom_histogram(binwidth = 0.5)+
+  geom_histogram(binwidth = 2)+
   scale_x_log10(limits=c(0,250))+
-  facet_grid(. ~Day)+
-  labs(Datamean,x=Rate,y=Average Plant Height,
-       title=Ave)+theme_bw(base_size = 24, base_family = "Helvetica") +
+  facet_grid()+
+  labs(x="Rate",y="Average Plant Height",)+
+  theme_bw(base_size = 24, base_family = "Helvetica") +
   theme(axis.title = element_text(size = 36))
   
-
+MeanFacet<- ggplot(DataMean,aes('Average Plant Height ','Rate'))+
+  geom_point()+
+  facet_grid(.~'Day')
 
  
 
