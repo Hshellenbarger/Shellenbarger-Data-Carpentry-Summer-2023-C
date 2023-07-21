@@ -22,5 +22,19 @@ DataSD%>%
   aov(`Standard Deviation of Plant Height`~Rate,data=.)%>%
   summary()
 
+DataMean%>%
+  lm(`Average Plant Height`~Rate,data=.)%>%
+  summary()
+mod1<-DataMean%>%
+  lm(`Average Plant Height`~Rate,data=.)
+summary(mod1)
+
+DataSD%>%
+  lm(`Standard Deviation of Plant Height`~Rate,data=.)%>%
+  summary()
+
+mod2<-DataSD%>%
+  lm(`Standard Deviation of Plant Height`~Rate,data=.)
+summary(mod2)
 
   
