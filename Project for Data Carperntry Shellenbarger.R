@@ -7,10 +7,8 @@ Data2 <- data %>%
   summarise(APH = mean(Height_cm),
             SDPH = sd(Height_cm)) %>%
   arrange(DAP)
-Two_way_ANOVA_Mean<- aov(APH~Rate*DAP, data = Data2) 
-Two_way_AVONA_SD<- aov(SDPH~Rate*DAP, data = Data2)
-summary(Two_way_ANOVA_Mean)
-summary(Two_way_AVONA_SD)
+Two_way_ANOVA_APH<- aov(APH~Rate*DAP, data = Data2) 
+summary(Two_way_ANOVA_APH)
 interaction.plot(Data2$Rate,
                  factor(Data2$DAP),
                  Data2$APH,
